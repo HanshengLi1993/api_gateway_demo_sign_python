@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #              **阿里云 API Gateway 签名**
 
 ##  项目背景
@@ -54,3 +55,7 @@ API需要用户，使用密钥对排序后的请求全部内容（包括请求�
 =======
 >>>>>>> fa1367f90fa29e13a1f17699299456fc7bde2a85
 
+=======
+# api_gateway_demo_sign_python
+Api Gateway Signature Validation For aliyun
+>>>>>>> 943a2e7b01f84a4fc29b457fff866e3240840a6e
